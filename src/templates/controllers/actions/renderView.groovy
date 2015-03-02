@@ -1,0 +1,1 @@
+render view: '${node['viewName']}', model: ${node['model']}

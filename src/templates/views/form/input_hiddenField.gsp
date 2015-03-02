@@ -1,0 +1,1 @@
+<adminlte:hiddenField name="${targetVarName}.${node.name}" value="\${${propertyVar}?.${node.name}}" />

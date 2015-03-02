@@ -1,0 +1,12 @@
+/*
+*= require AdminLTE/css/AdminLTE
+*= require AdminLTE/css/datepicker/datepicker3
+*= require_self
+*/
+.content {
+    /*background: #efefef;*/
+}
+
+.operations-bar {
+    /*background: #f0f0f0;*/
+}

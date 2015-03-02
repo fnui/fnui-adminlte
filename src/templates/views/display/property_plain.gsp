@@ -1,0 +1,1 @@
+<g:fieldValue bean="\${${varName}}" field="${node.name}" />
